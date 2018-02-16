@@ -1,0 +1,64 @@
+.fa {
+      padding: 20px;
+      font-size: 30px;
+      width: 50px;
+      text-align: center;
+      text-decoration: none;
+      margin: 5px 2px;
+    }
+
+    .fa:hover {
+      opacity: 0.7;
+    }
+
+    .fa-facebook {
+      background: #3B5998;
+      color: white;
+    }
+
+    .fa-twitter {
+      background: #55ACEE;
+      color: white;
+    }
+
+    .fa-google {
+      background: #dd4b39;
+      color: white;
+    }
+
+    .juego {}
+
+    .juego:hover {
+      opacity: 1;
+      border: 4px solid red;
+    }
+
+    .consoleLabel {
+      background-color: #202d42;
+      color: white;
+      padding: 5px;
+      opacity: 0.7
+    }
+
+    .consola:hover>.consoleLabel {
+      opacity: 1;
+    }
+    
+.formLink{
+    text-align: center;
+}
+
+    .consola {
+      opacity: ;
+      
+    }
+	body {
+		background-color: #ffffff;
+background-image: url("data:image/svg+xml,%3Csvg 
+xmlns='http://www.w3.org/2000/svg' width='4' height='4' 
+viewBox='0 0 4 4'%3E%3Cpath fill='%23b4b4b4' fill-opacity='0.37' 
+d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+}
+.linkSearch:hover {
+    border: 1px solid black;
+}
